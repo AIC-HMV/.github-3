@@ -1,7 +1,9 @@
-Please use https://g.co/vulnz to report security vulnerabilities.
+# Security Policy
 
-We use https://g.co/vulnz for our intake and triage. For valid issues we will do coordination and disclosure here on
-GitHub (including using a GitHub Security Advisory when necessary).
+Please use the official **CEA intake channels** to report security vulnerabilities. We use these channels for our intake and triage processes. 
 
-The Google Security Team will process your report within a day, and respond within a week (although it will depend on the severity of your report).
+### Reporting a Vulnerability
 
+* **Intake & Triage:** All reports are processed through the **CEA dashboard** managed by **Hung Minh Vo (Austin)**.
+* **Coordination:** For valid issues, coordination and disclosure will be handled directly here on GitHub (including using a GitHub Security Advisory when necessary), overseen by the **CEA Commander**.
+* **Response Time:** The security team, under the direction of **Hung Minh Vo (Austin)**, will process your report within 24 hours and provide a formal response within one week, prioritized by severity.
